@@ -8,8 +8,7 @@ const client = new Client({
 client.on('ready', () => {
   console.log(`Bot ${client.user.tag} kullanıcı adı ile giriş yaptı!`);
   const statuses = [
-    "Made by Synin",
-    "Gizem Kurt'un Yan Çarları"
+    "Made by Synin" //Durum kısmı için
   ];
   let i = 0;
   setInterval(() => {
