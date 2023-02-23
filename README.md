@@ -6,12 +6,13 @@
   npm i discord.js@13.1.0 
   Düzenlenecek yerlerin yanına // işareti koydum ona göre düzenleme yapabilirsiniz.
 
-Soru-Cevap
-SORU
+# Soru-Cevap
+
+**SORU**
 
 Bu komutlar ne yapar?
 
-CEVAP
+**CEVAP**
 
 Küfür filtreleme botudur. Bota gireceğiniz küfürler sohbette açık bir şekilde yazılıyorsa bot siler. Fakat sansürlü(Spoilerlı) yazılırsa bot karışmaz. Mesajı silmez.
 Bu bottan engellemeyen rol id lerini gerekli yerlere girip o rolün filtreden etkilenmesini kapatabilirsiniz.
